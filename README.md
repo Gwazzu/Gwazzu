@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About me:</h2>
 
-Adept cybersecurity professional with a comprehensive understanding of security rameworks and proven expertise in implementing robust security controls to ensure compliance. Equipped with a wide-ranging proficiency in identifying threats, hardening security, threat modeling, and managing incident escalations and responses with leading SIEM tools. My technical acumen is further highlighted by my command of Linux, SQL, and Python. A Google Cybersecurity Professional Certificate holder, my repertoire is not limited to technical prowess. I bring a unique blend of exceptional communication, teamwork, problem-solving abilities, emotional intelligence, and an unwavering work ethic. I am innately curious and continuously seek opportunities to expand my knowledge, skills, and understanding. If you seek a cybersecurity professional who pairs strong technical expertise with critical soft skills, let's connect. Together, we can redefine cybersecurity standards in your organization.
+Adept cybersecurity professional with a comprehensive understanding of security rameworks and proven expertise in implementing robust security controls to ensure compliance. Equipped with a wide-ranging proficiency in identifying threats, hardening security, threat modeling, and managing incident escalations and responses with leading SIEM tools. My technical knowledge is further highlighted by my command of Linux, SQL, and Python. As a Google Cybersecurity Professional Certificate holder, my repertoire is not limited to technical prowess. I bring a unique blend of exceptional communication, teamwork, problem-solving abilities, emotional intelligence, and an unwavering work ethic. I am innately curious and continuously seek opportunities to expand my knowledge, skills, and understanding. If you seek a cybersecurity professional who pairs strong technical expertise with critical soft skills, let's connect. Together, we can redefine cybersecurity standards in our world that needs us.
 
 <h2>📈 Passion to Grow</h2> 
 
@@ -11,7 +11,7 @@ Adept cybersecurity professional with a comprehensive understanding of security 
 - I enjoy self-learning via tryhackme.com (Top 8% on the site) I am currently working on the "Cyber Defense" learning path and "Web Fundamentals" learning path.
   Through these I have learned to develop an attacker mindset, which is very important when working in cybersecurity.
 
-- Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world
+- Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
 
 - Researching Bug Bounty programs and proactively learning to become a part of that realm.
 
