@@ -8,8 +8,7 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 - I am currently studying for the Security+ Certification.
 
-- I enjoy self-learning via tryhackme.com (Top 5% on the site) I am currently working on the "Cyber Defense" learning path and "Web Fundamentals" learning path.
-  Through these I have learned to develop an attacker mindset, which is very important when working in cybersecurity.
+- Gaining Hands-on experience through tryhackme. I am currently in the top 5% in ranking out of 2 million hackers.
 
 - Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
 
