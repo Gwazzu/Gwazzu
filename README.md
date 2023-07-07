@@ -18,7 +18,8 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/b2c90b5cacbc907c14e213a55ba13147)
 - [Tryhackme: Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y37HQWJSKL.png)
-
+- [Tryhackme: CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EQVKYFSKOA.png)
+  
 <h2>📕 Education </h2>
   
 - <b>George Mason University College of Engineering and Computing</b>
