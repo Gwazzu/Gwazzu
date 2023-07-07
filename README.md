@@ -8,7 +8,7 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 - I am currently studying for the Security+ Certification.
 
-- Gaining Hands-on experience through tryhackme. I am currently in the top 4% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
+- Gaining Hands-on experience through tryhackme. I am currently in the top 3% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
 
 - Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
 
