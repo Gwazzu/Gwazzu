@@ -6,8 +6,6 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 <h2>📈 Passion to Grow</h2> 
 
-- I am currently studying for the Security+ Certification.
-
 - Gaining Hands-on experience through tryhackme. I am currently in the top 3% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
 
 - Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
@@ -16,6 +14,7 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 <h2>📜 Certifications </h2>
 
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/c5e18d22-080f-4837-bd2e-a3730df0465f/linked_in_profile)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/b2c90b5cacbc907c14e213a55ba13147)
 - [Tryhackme: Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y37HQWJSKL.png)
 - [Tryhackme: CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EQVKYFSKOA.png)
