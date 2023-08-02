@@ -6,7 +6,7 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 <h2>📈 Passion to Grow</h2> 
 
-- Gaining Hands-on experience through tryhackme. I am currently in the top 2% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
+- Gaining Hands-on experience through tryhackme. I am currently in the Top 2% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
 
 - Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
 
