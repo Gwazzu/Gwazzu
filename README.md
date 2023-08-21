@@ -6,11 +6,8 @@ Passionate cybersecurity professional with a comprehensive understanding of secu
 
 <h2>📈 Passion to Grow</h2> 
 
+- SOC Analyst with a passion to get better every day, always continuously learning.
 - Gaining Hands-on experience through tryhackme. I am currently in the Top 2% in ranking out of 2 million hackers. [Gwazzu Tryhackme](https://tryhackme.com/p/Gwazzu)
-
-- Driven to become a valuable asset in Cybersecurity and become one of the top ethical hackers in the world.
-
-- Researching Bug Bounty programs and proactively learning to become a part of that realm.
 
 <h2>📜 Certifications </h2>
 
